@@ -1,0 +1,9 @@
+Building Craftr
+
+See doc/readme-qt.rst for instructions on building Craftr QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Craftr.
+
+See doc/build-*.txt for instructions on building craftrd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Craftr.
